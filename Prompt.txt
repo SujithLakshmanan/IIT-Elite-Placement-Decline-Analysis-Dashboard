@@ -1,0 +1,179 @@
+
+
+Prompt:
+
+Good evening, Claude. Act as a senior data scientist expert with more than 10+ years of experience in Amazon and Google, India. Additionally, you have mentored 100+ junior data analysts and 300-700 learners who are willing or to excel their knowledge and they provide a rating of 9.6 out of 10 (course satisfaction score) in data analytics. As well as, you have vast experience in freelancing.
+
+Right now, you are assigned with a task titled, "Why 2024 batch students declined in the ratio of placements but got good salaries compared to previous academic years in IIT's as well as other institutions in India?". Our company is curious to find the reasons in order to fix it and prepare a detailed report to the government. Now, as a senior data scientist expert you need to create a more detailed and visually attractive dashboard and explain your findings to them in layman terms. Please make this dashboard more visually appealing and attractive, update dynamically, and be able to view, add, edit and delete things in the dashboard.
+
+This will help the government in order to change the schemes, rules and regulations of our education system.
+
+1.Data to be analysed: 2019 to 2024 (5 year academic data)
+
+2.Problems to be addressed in this dashboard:
+
+2.1. Why did the 2024 batch students not get good placements compared to other academic years?
+
+2.2. Why is there a significant drop in placement rates in IIT's and other elite institutions like NIT, IIM, IISC etc?
+
+2.3. KPI Indicators: Highest and Lowest salary got by a student during an academic year
+
+2.4. Correlation: Number of offers received vs Number of offers accepted & rejected
+
+2.5. List of corporate companies visited ( Company names, salary details, no of students placed in each company)
+
+2.6. Number of students did not participate for the placement process/ pursue for higher education/ entrepreneurship/ govt exam prep etc
+
+2.7. Other than IITs, NIT's, IIM's, IISB:
+
+2.7.1. Why did tier-2 and tier-3 colleges not have good placement ratios compared to tier-1 colleges?
+
+2.7.2. Factors like: Poor lab infrastructure, rote memorization, skills mismatch, focusing on attendance and traditional way of teaching etc.
+
+2.7.3. Impact of COVID-19 (pre vs post covid) and Mental health issues of students
+
+2.7.4. Impact of AI in workforce like (AI agents, Agentic and Generative AI)
+
+2.7.5. Reasons that companies uses in order to make layoffs
+
+2.7.6. Number of students who got placed in on-campus and off-campus placements during an academic year
+
+2.7.7. Number of students has passive income like freelancing (content-creation, video editing, logo design), stock market and crypto investing, tutoring to other students, volunteering and contributing to an open-source project
+
+2.7.8. Comparison between a tier-1 vs tier-2 vs tier-3 student in terms of skills, academic marks, placements offers, sports and extra-curricular activities etc.
+
+2.8. In case of skill mismatch:
+
+2.8.1. Lack of interest in that specific field
+
+2.8.2. No guided mentorship
+
+2.8.3. No supportive environment and other factors
+
+2.9. Comparison: How many students are participating in hackathons or doing projects vs not participating in hackathons or doing projects while studying their course.
+
+3. Data Collection Process:
+
+In order to create a concise, data-driven and more visually attractive dashboard, as a senior data scientist we need to collect data from official sources.
+
+-> Collecting data from college students and graduates through surveys
+
+-> Visit government official websites like NAD,APAAR, ministry of higher education of India, UGC, AICTE, AIIMS, law studies, agriculture universities etc.
+
+-> Gather data from college/universities directly
+
+-> Use newspapers, blogs, research papers and detailed documents related to the specific topic
+
+-> Use job portals like Linked IN, Naukri, Indeed, Shine.com, Intern Shala, remote work websites
+
+-> Student communities like Under25, Quora and Reddit
+
+-> Talk to professionals and gather data from them directly.
+
+-> Gather data from Unstop etc.
+
+Create a real-world dataset that contains 7,000 rows and 10-12 columns in order to obtain insights. As a senior data scientist, you know what columns are needed to analyse the data.
+
+4. Dashboard preparation and building process:
+
+-> After collecting the data, in order to prepare the dashboard:
+
+4.1. Data Cleaning
+
+4.2. Data Manipulation and Validation in order to clean the data (converting raw data to structured)
+
+4.3. Data Analysis and Exploration
+
+4.4. Use feature selection (choose relevant columns to make the dashboard functional and working dynamic and interactive)
+
+4.5. Using relevant tools in order to create the dashboard (Power BI, Python, Streamlit, Data visualization libraries)
+
+4.6. Creating a fully-designed, visually appealing, interactive and dynamic dashboard in order to make it more attractive (using slicers, filters, KPI's, charts and graphs, cards etc) to make it a more detailed and fully functional dashboard.
+
+4.7.CRUD Functionalities
+
+Enable:
+
+4.7.1.Viewing detailed student/company data by batch/year/campus
+
+4.7.2.Adding new placement data or salary figures as batches progress
+
+4.7.3.Editing records for validated corrections
+
+4.7.4.Deleting outdated/unreliable data fields
+
+4.8.UX / UI & Reporting
+Ensure high colour contrast and font readability for accessibility
+
+Enable seamless slicing by institution, tier, or year
+
+Provide export options for PDF/Excel reports for government review
+
+Add dynamic summary cards for skills mismatch, mental health, COVID impact
+
+Include drilldowns (e.g., reasons for non-placement, skills mismatch factors)
+
+Allow real-time updates using APIs/data connectors from campus sources
+
+Once you have created the dashboard, check whether you have added all the details as per the instructions given above. Recheck it twice or thrice as it is a more important one and you need to present it to the government officials, not only for that, it is very much useful in order to change or modify the government scheme to change the education system of our country.
+
+5.After performing all the actions, use a final checklist:
+
+5.1. Understanding the core problem
+
+5.2. Prepare a timeline in order to complete the project within time
+
+5.3. Gather data from websites that suits with the topic
+
+5.4. Perform all the prerequisites like data cleaning, manipulating and analysis in order to make the dashboard more functional, dynamic and attractive
+
+5.5. Final QA plan
+
+5.6. Review the dynamic and functional dashboard twice or thrice
+
+5.7. Report Generation and Documentation
+
+6.Final Note:
+
+-> The dashboard should be designed more visually appealing, dynamic, functional and modify according to the new data
+
+-> Able to perform CRUD operations (view, add, delete and create)
+
+-> Use appropriate graphs and charts for the necessary visualizations
+
+-> Colour contrast is very important
+
+-> Documentation process.
+
+-> Add more functionalities to the dashboard apart from the sources, we have written in this prompt to make it more functional, dynamic and attractive from your experience.
+
+7.Sources:
+
+https://www.thehindu.com/news/cities/bangalore/students-in-tier-2-and-tier-3-engineering-colleges-struggle-for-placements/article66907923.ece
+
+https://www.reddit.com/r/MBAIndia/comments/1kstfcj/how_do_students_in_tier_2_or_tier_3_colleges_get/
+
+https://www.geeksforgeeks.org/blogs/tier-1-vs-tier-3-engineering-colleges/
+
+https://www.thenewsminute.com/news/iits-placement-rates-dropped-from-90-to-80-from-2021-to-2024
+
+https://www.thehindu.com/news/national/iit-nit-placement-data-show-job-market-stagnation-congress/article69453457.ece
+
+https://www.business-standard.com/education/news/salary-drops-for-2024-graduates-as-economic-slowdown-hits-iit-placements-124071000273_1.html
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11194636/
+
+https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health
+
+
+
+
+
+
+
+
+
+
+
+
+	
