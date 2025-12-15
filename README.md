@@ -1,9 +1,5 @@
 **IIT & ELITE INSTITUTIONS PLACEMENT DECLINE DASHBOARD (2019-2024)**
 
-This is the final, human-written README, tailored to emphasize your advanced work in **Prompt Engineering and LLM-driven Data Generation** alongside your analytical and rapid prototyping skills.
-
-##  Project README: IIT & Elite Placement Decline Dashboard (2019-2024)
-
 ###  Project Overview and Goal
 
 This project is a high-impact, interactive 6-tab dashboard designed to conduct a deep and diagnostic analysis of the **sharp decline in campus placements** experienced by elite Indian institutions for the 2024 graduating class.
@@ -34,7 +30,6 @@ The final dashboard provides high-value insights delivered through efficient dev
 | :--- | :--- |
 | **Data Generation** | Prompt Engineering (Intermediate), LLM Interaction Principles |
 | **Development** | Claude 
-| **Analysis** | Statistical Analysis, Exploratory Data Analysis, Data Cleaning (ETL principles) |
 | **Conceptual Skills** | Full CRUD Operations, Scenario Modeling, Dashboard Design |
 
 Dashboard Link: https://claude.ai/public/artifacts/ba9ac508-52d2-49d9-b41a-a228128c161f
